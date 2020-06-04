@@ -1,0 +1,2 @@
+export OPENNI2_INCLUDE=/home/ybh1998/Projects/Scan/lib/OpenNI-Linux-x64-2.2/Include
+export OPENNI2_REDIST=/home/ybh1998/Projects/Scan/lib/OpenNI-Linux-x64-2.2/Redist
